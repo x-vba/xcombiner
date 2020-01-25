@@ -2,7 +2,7 @@
 
 ## Description
 
-XCombiner is a utility tool used to combine multiple VBA source code modules
+[XCombiner](http://x-vba.com/xminifier) is a utility tool used to combine multiple VBA source code modules
 into a single module, taking care to remove excess Option Statements and
 Attribute Module Names. XCombiner is useful when you want to segment your code
 into multiple Modules, but want to ship your code as a single Module.
